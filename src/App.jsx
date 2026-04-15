@@ -203,6 +203,12 @@ export default function App() {
             {/* Text changes based on mode */}
           </button>
         </form>
+        
+        <footer>
+          <ul>
+            <li>&copy; 2023 Student Management. All rights reserved.</li>
+          </ul>
+        </footer>
       </div>
 
       {/* STUDENT LIST SECTION */}
