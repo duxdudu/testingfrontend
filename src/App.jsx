@@ -232,6 +232,7 @@ export default function App() {
                   <p className="text-sm text-gray-500">Age: {s.age}</p>
                   <p className="text-sm text-gray-500">Address: {s.address}</p>
                   <p className="text-sm text-gray-500">Contact: {s.contact}</p>
+                  <p>this my second paragraph </p>
                 </div>
 
                 {/* EDIT & DELETE BUTTONS */}
